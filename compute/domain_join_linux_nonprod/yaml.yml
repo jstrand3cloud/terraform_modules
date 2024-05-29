@@ -1,0 +1,8 @@
+# process_config:
+
+## @param process_collection - custom object - optional
+## Specifies settings for collecting processes.
+# process_collection:
+## @param enabled - boolean - optional - default: false
+## Enables collection of information about running processes.
+ # enabled: true
